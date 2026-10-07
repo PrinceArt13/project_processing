@@ -1,0 +1,10 @@
+/shelf/
+/workspace.xml
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/

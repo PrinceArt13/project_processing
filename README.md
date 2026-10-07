@@ -9,7 +9,7 @@
 - RabbitMQ (FastStream)
 - Alembic (миграции)
 - Docker + docker-compose
-## Запуск через Docker (Рекомендуется)
+## Запуск через Docker
 
 1. Создайте файл `.env` на основе `.env.example`
 2. Запустите инфраструктуру:
